@@ -5,3 +5,22 @@ body{
   line-height: 1.5;
 
 }
+img {
+  height: 10%;
+  width: 10%;
+padding-left: 50%;
+margin: 10px 0 10px 0;
+}
+footer{
+  padding-left: 50%;
+}
+
+
+hr {
+  border-style: dotted none none none;
+  height: 0px;
+  width: 5%;
+  border-color: gray;
+  border-width: 7px;
+
+}
