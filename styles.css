@@ -1,26 +1,124 @@
-body{
-  background-color: gray;
+body {
+  margin: 0;
+  background-color: #79bac1;
+  font-family: "Montserrat-Black"
+}
+
+
+h1 {
   font-family: "Montserrat-Black";
-  font-size: 1rem;
-  line-height: 1.5;
-
+  text-align: center;
 }
-img {
-  height: 10%;
-  width: 10%;
-padding-left: 50%;
-margin: 10px 0 10px 0;
+h5{
+  text-align: right;
 }
-footer{
-  padding-left: 50%;
+h4{
+  font-family: "Montserrat-bold";
+  font-size: 2rem;
 }
 
+h6 {
+  text-align: center;
+  font-size: 1.25rem;
+}
+p{
+  color: gray;
+}
 
-hr {
-  border-style: dotted none none none;
-  height: 0px;
-  width: 5%;
-  border-color: gray;
-  border-width: 7px;
+.container-fluid {
+  padding: 0 3%;
+}
 
+/* nabivaion bar */
+.navbar {
+  padding-bottom: 0 0 2.5rem;
+}
+
+.navbar-brand {
+  font-family: cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-left: 2%;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:"Montserrat-Light"
+}
+.download-botton{
+  margin: 5% 3% 5% 0;
+
+}
+.row{
+  padding-top: 50px;
+}
+
+/* title image */
+.logo-image {
+  width: 200px;
+  height: 200px;
+}
+
+.button {
+
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+}
+
+.button1 {
+  height: 70px;
+  width:350px;
+  background-color: #4CAF50;
+  font-size: 1.5rem;
+
+
+}
+
+.button2 {
+  height: 70px;
+  width: 350px;
+  background-color: #008CBA;
+  font-size: 1.5rem;
+
+
+}
+
+/* slider-new */
+.corousel-item {
+  padding: 7% 15%;
+}
+.slider{
+  text-align: center;
+
+  background-color: #00a1ab;
+}
+
+.help-image {
+  width: 15%;
+  margin: 20px;
+  border-radius: 70%
+}
+
+#help-carousel {
+  text-align: center;
+}
+.help-desc{
+  text-align: center;
+}
+/* Features Section  */
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+}
+.icon{
+  color:#381460;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#be79df;
 }
