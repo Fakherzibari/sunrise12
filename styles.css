@@ -175,3 +175,9 @@ div.desc1 {
   text-align: center;
 }
 
+.footer {
+  margin-top: 150px;
+  text-align: center;
+  display: block inline-flex;
+}
+
