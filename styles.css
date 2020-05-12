@@ -127,28 +127,15 @@ p{
 /* generalinformation */
 #general-info{
   background-color: #58b4ae;
-  padding: 0 200px;
 }
 .info-text{
-  color: Black;
-  font-size: 2rem;
-}
+  color: white;
 
+}
 .card-header{
   color: #ffe9c5;
   background-color:#381460;
-  font-size: 1.5rem;
-}
-.selection{
-    font-size: 1.5rem;
 }
 .list-unstyled{
-  font-size: 1rem;
-}
-/* footer */
-.footer {
-  margin: 250px 20px 0 20px;
-  text-align: center;
-  background-color:#343a40;
-  display: block inline-flex;
+  font-size: 1.5rem;
 }
