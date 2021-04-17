@@ -154,7 +154,7 @@ p {
 }
 
 .footer {
-  margin-top: 150px;
+  margin-top: 250px;
   text-align: center;
   display: block inline-flex;
 }
@@ -186,4 +186,8 @@ p {
 
 #help-carousel {
   text-align: center;
+}
+
+.card-header{
+  background-color: #355c7d;
 }
